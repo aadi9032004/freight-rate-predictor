@@ -28,7 +28,7 @@ I knew Python and Power BI, but not SQL and most SCM/analytics job descriptions 
 
 ## Dashboard
 
-![Freight Rate Predictor Dashboard](images/dashboard.png)
+![Freight Rate Predictor Dashboard](dashboard.png)
 
 ## Repository Structure
 
